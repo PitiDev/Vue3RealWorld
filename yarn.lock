@@ -704,7 +704,7 @@
   dependencies:
     "@volar/language-core" "1.4.1"
 
-"@volar/vue-language-core@1.6.5":
+"@volar/vue-language-core@1.6.5", "@volar/vue-language-core@^1.6.5":
   version "1.6.5"
   resolved "https://registry.yarnpkg.com/@volar/vue-language-core/-/vue-language-core-1.6.5.tgz#db42520f1a29737c7e40fbb3e6aead8def85ba75"
   integrity sha512-IF2b6hW4QAxfsLd5mePmLgtkXzNi+YnH6ltCd80gb7+cbdpFMjM1I+w+nSg2kfBTyfu+W8useCZvW89kPTBpzg==
@@ -3226,7 +3226,7 @@ vue-template-compiler@^2.7.14:
     de-indent "^1.0.2"
     he "^1.2.0"
 
-vue-tsc@^1.2.1:
+vue-tsc@^1.2.0:
   version "1.6.5"
   resolved "https://registry.yarnpkg.com/vue-tsc/-/vue-tsc-1.6.5.tgz#cd18804b12087c300b6c9ee2a1da41a63f11103e"
   integrity sha512-Wtw3J7CC+JM2OR56huRd5iKlvFWpvDiU+fO1+rqyu4V2nMTotShz4zbOZpW5g9fUOcjnyZYfBo5q5q+D/q27JA==
